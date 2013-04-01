@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "CharacterView.h"
 @interface ViewController : UIViewController
 
 @end
